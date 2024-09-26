@@ -1,6 +1,6 @@
 import example
 
-def text_compare():
+def test_compare():
     a = example.Vector(1, 2)
     b = example.Vector(1, 2)
     
